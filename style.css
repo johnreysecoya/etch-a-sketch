@@ -18,6 +18,10 @@ html {
   border: 1px solid black;
 }
 
-.inside-box-hover {
-  background-color: black;
+.hover-cover-background-color {
+  background-color: white !important;
 }
+
+/* .inside-box-hover {
+  background-color: black;
+} */

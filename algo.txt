@@ -32,3 +32,11 @@ add a hover effect to the grid
 create a scroll button to change the squares
 
 add a prompt that will be the number of grids
+
+
+
+changing background color
+
+    > I think I need to set the color as with the color of the color picker
+    > when hovered I need to remove a class
+        > 
